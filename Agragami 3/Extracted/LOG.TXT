@@ -1,0 +1,204 @@
+
+Conversion Type: Web-Dunia Fonts to True Type Font
+Total Errors => NO ERRORS!!!
+Total Characters => 2992
+Conversion Type: Web-Dunia Fonts to True Type Font
+Total Errors => NO ERRORS!!!
+Total Characters => 2955
+Conversion Type: Web-Dunia Fonts to True Type Font
+Total Errors => NO ERRORS!!!
+Total Characters => 2977
+Conversion Type: True-Type Fonts to Kruti-Dev Fonts
+Total Errors => NO ERRORS!!!
+Total Characters => 2859
+Conversion Type: Web-Dunia Fonts to True Type Font
+Total Errors => NO ERRORS!!!
+Total Characters => 3274
+Conversion Type: Web-Dunia Fonts to True Type Font
+Total Errors => NO ERRORS!!!
+Total Characters => 3274
+Conversion Type: True-Type Fonts to Kruti-Dev Fonts
+Total Errors => NO ERRORS!!!
+Total Characters => 3139
+Conversion Type: Web-Dunia Fonts to True Type Font
+Total Errors => NO ERRORS!!!
+Total Characters => 1017
+Conversion Type: True-Type Fonts to Kruti-Dev Fonts
+Total Errors => NO ERRORS!!!
+Total Characters => 964
+Conversion Type: True-Type Fonts to Web-Dunia Fonts
+Total Errors => 184
+Total Characters => 4707
+Conversion Type: Web-Dunia Fonts to True Type Font
+Total Errors => NO ERRORS!!!
+Total Characters => 4707
+Conversion Type: Web-Dunia Fonts to True Type Font
+Total Errors => NO ERRORS!!!
+Total Characters => 4708
+Conversion Type: True-Type Fonts to Kruti-Dev Fonts
+Total Errors => NO ERRORS!!!
+Total Characters => 4465--------Tue Oct 25 09:34:49 2011
+
+Input File : D:\INPUT.DOC
+Type       : 9
+Output File: D:\OUTPUT.DOC
+Type       : 9
+
+ERROR: Not enough memory
+
+Module: Font Convertor
+File: TMP6.$$$
+Time:Tue Oct 25 09:35:00 2011
+
+ERROR: No such file or directory
+
+Module: Convert.exe
+File: TMP7.$$$
+Time:Tue Oct 25 09:35:05 2011
+
+------
+--------Sun Nov 06 20:16:56 2011
+
+Input File : D:/INPUTA.DOC
+Type       : 9
+Output File: D:/OUTPUTA.DOC
+Type       : 9
+
+ERROR: Not enough memory
+
+Module: Font Convertor
+File: TMP6.$$$
+Time:Sun Nov 06 20:17:06 2011
+
+ERROR: No such file or directory
+
+Module: 23.exe
+File: TMP5.$$$
+Time:Sun Nov 06 20:17:06 2011
+
+ERROR: No such file or directory
+
+Module: Convert.exe
+File: TMP7.$$$
+Time:Sun Nov 06 20:17:06 2011
+
+------
+
+Conversion Type: Web-Dunia Fonts to True Type Font
+Total Errors => NO ERRORS!!!
+Total Characters => 4080
+Conversion Type: True-Type Fonts to Kruti-Dev Fonts
+Total Errors => NO ERRORS!!!
+Total Characters => 3899
+Conversion Type: Web-Dunia Fonts to True Type Font
+Total Errors => NO ERRORS!!!
+Total Characters => 4149
+Conversion Type: True-Type Fonts to Kruti-Dev Fonts
+Total Errors => NO ERRORS!!!
+Total Characters => 3965
+ERROR: Permission denied
+
+Module: Wizard.exe
+File: startcd.exe
+Time:Thu Nov 24 17:08:31 2011
+--------Thu Nov 24 18:54:38 2011
+
+Input File : D:\INPUT.TXT
+Type       : 1
+Output File: D:\OUTPUT.TXT
+Type       : 1
+
+ERROR: Permission denied
+
+Module: Convert.exe
+File: ConvertDoc.exe
+Time:Thu Nov 24 18:54:38 2011
+
+------
+--------Thu Nov 24 18:55:22 2011
+
+Input File : D:\INPUT.TXT
+Type       : 1
+Output File: D:\OUTPUT.TXT
+Type       : 1
+
+ERROR: No such file or directory
+
+Module: CONVERT.EXE
+File: ConvertDOc.exe
+Time:Thu Nov 24 18:55:22 2011
+
+------
+--------Thu Nov 24 18:55:26 2011
+
+Input File : D:\INPUT.TXT
+Type       : 1
+Output File: D:\OUTPUT.TXT
+Type       : 1
+
+ERROR: No such file or directory
+
+Module: CONVERT.EXE
+File: ConvertDOc.exe
+Time:Thu Nov 24 18:55:26 2011
+
+------
+
+ERROR: No such file or directory
+
+Module: Wizard.exe
+File: startcd.exe
+Time:Sat Feb 11 11:10:40 2012
+
+ERROR: No such file or directory
+
+Module: Wizard.exe
+File: startcd.exe
+Time:Fri Mar 09 17:09:37 2012
+
+ERROR: No such file or directory
+
+Module: Wizard.exe
+File: startcd.exe
+Time:Fri Mar 23 21:01:54 2012
+
+ERROR: No such file or directory
+
+Module: Wizard.exe
+File: startcd.exe
+Time:Fri Mar 23 21:03:17 2012
+
+ERROR: No such file or directory
+
+Module: Wizard.exe
+File: startcd.exe
+Time:Fri Mar 23 21:03:19 2012
+--------Sun Mar 25 20:01:37 2012
+
+Input File : D:/AA.TXT
+Type       : 1
+Output File: D:/OUT.TXT
+Type       : 1
+
+ERROR: No such file or directory
+
+Module: CONVERT.EXE
+File: ConvertDOc.exe
+Time:Sun Mar 25 20:01:37 2012
+
+------
+--------Sun Mar 25 20:01:45 2012
+
+Input File : D:/AA.TXT
+Type       : 1
+Output File: D:/OUT.TXT
+Type       : 1
+
+ERROR: No such file or directory
+
+Module: CONVERT.EXE
+File: ConvertDOc.exe
+Time:Sun Mar 25 20:01:45 2012
+
+------
+

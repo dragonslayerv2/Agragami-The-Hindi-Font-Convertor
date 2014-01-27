@@ -1,0 +1,18 @@
+
+ERROR: No such file or directory
+
+Module: Interface.exe
+File: C:\INPUT.DOC
+Time:Sat Aug 11 10:19:27 2012
+
+ERROR: No such file or directory
+
+Module: Interface.exe
+File: C:\INPUT.DOC
+Time:Sat Aug 11 10:19:29 2012
+
+------
+
+Conversion Type: True-Type Fonts to Web-Dunia Fonts
+Total Errors => NO ERRORS!!!
+Total Characters => 90

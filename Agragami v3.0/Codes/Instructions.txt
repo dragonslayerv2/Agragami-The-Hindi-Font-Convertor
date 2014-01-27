@@ -1,0 +1,2 @@
+Please compile the files in Turbo C++ v3.0
+Only the files inside the folder StartCd have to be compiled in Dev C++.
